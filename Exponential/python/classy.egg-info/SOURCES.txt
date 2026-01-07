@@ -1,0 +1,9 @@
+README
+autosetup.py
+setup.py
+/home/eladio/Documentos/Hi_CLASS/hi_class_public/python/../python/classy.pyx
+/home/eladio/Documentos/Potencial_exponencial/hi_class_exponencial/python/../python/classy.pyx
+classy.egg-info/PKG-INFO
+classy.egg-info/SOURCES.txt
+classy.egg-info/dependency_links.txt
+classy.egg-info/top_level.txt

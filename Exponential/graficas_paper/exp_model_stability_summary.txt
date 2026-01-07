@@ -1,0 +1,12 @@
+Stability summary (background-level)
+c_s^2: min=5.000001e-18  max=3.333333e-01
+c_s^2 ≤ 1 check: enabled
+M*^2: min=1.000000e+00  max=1.000000e+00  [M*^2 from 'M*^2_smg']
+Q_s proxy: min=5.563548e-02  max=1.515484e+17
+Q_s proxy definition: Q_s proxy = M*^2*D  (D from 'kin (D)')
+
+Fractions passing:
+  c_s^2 > 0:   1.000000
+  c_s^2 ≤ 1:   1.000000
+  M*^2 > 0:    1.000000
+  Q_s > 0:     1.000000
