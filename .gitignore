@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data / outputs (ajusta a tu caso)
+data/
+outputs/
+results/
+*.npy
+*.npz
+*.hdf5
+*.fits
+*.pkl
+
+# OS / editors
+.DS_Store
+.vscode/
